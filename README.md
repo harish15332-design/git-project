@@ -1,1 +1,1 @@
-This documentation will showcase the real-world utility of your project-helping your friends seamlessly monitor their anime watchlists-while highlighting advanced engineering aspects like secure authentication, custom image streaming, and relational databases for recruiters.
+This documentation will showcase the real-world utility of your project-helping my friends seamlessly monitor their anime watchlists-while highlighting advanced engineering aspects like secure authentication, custom image streaming, and relational databases for recruiters.
